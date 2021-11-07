@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @MuhammadNurilHuda
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Tensorflow
-- 📫 How to reach me nurilhuda3333@webmail.umm.ac.id
-
 ## 🚀 About Me
 I'm a Future Data Scientist...
 
