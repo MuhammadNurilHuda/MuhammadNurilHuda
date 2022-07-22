@@ -1,9 +1,6 @@
 ## 🚀 About Me
-I'm a Future Data Scientist...
-
-Interested in Machine Learning🤖
-
-Now learn tensorflow :electron:
+I'm a Data Scientist...
+Machine Learning Engineer 🤖
 
 
 ## 🔗 Links
