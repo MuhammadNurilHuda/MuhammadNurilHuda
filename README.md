@@ -5,7 +5,7 @@ I'm a Data Scientist...
 Machine Learning Engineer 🤖
 
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
+[![@nurilhuda3333's Holopin board](https://holopin.io/api/user/board?user=nurilhuda3333)](https://holopin.io/@nurilhuda3333)
 
 
 ## 🔗 Links
