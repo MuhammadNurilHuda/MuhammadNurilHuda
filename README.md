@@ -1,8 +1,5 @@
 ## 🚀 About Me
-I'm a Data Scientist...
-
-
-Machine Learning Engineer 🤖
+Machine Learning Enthusiast
 
 
 [![@nurilhuda3333's Holopin board](https://holopin.io/api/user/board?user=nurilhuda3333)](https://holopin.io/@nurilhuda3333)
