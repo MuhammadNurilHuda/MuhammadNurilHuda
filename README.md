@@ -1,4 +1,4 @@
-# Hi, I'm Nuril! 👋
+<h1 align="left">Hi, I'm Nuril 👋</h1>
 
 
 
@@ -10,8 +10,6 @@
 🧠 I'm currently learning Machine Learning at AWS DeepRacer
 
 📫 How to reach me [nurilhuda3333@gmail.com](mailto:nurilhuda3333@gmail.com)
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadnurilhuda&label=Profile%20views&color=0e75b6&style=plastic" alt="muhammadnurilhuda" /> </p>
 
@@ -31,11 +29,7 @@
 <a href="https://instagram.com/nuril.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuril.___" height="30" width="40" /></a>
 </p>
 
-
-
-[![@nurilhuda3333's Holopin board](https://holopin.io/api/user/board?user=nurilhuda3333)](https://holopin.io/@nurilhuda3333)
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadnurilhuda&label=Profile%20views&color=0e75b6&style=plastic" alt="muhammadnurilhuda" /> </p>
 
 <!---
 MuhammadNurilHuda/MuhammadNurilHuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
