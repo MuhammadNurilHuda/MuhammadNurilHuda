@@ -5,8 +5,6 @@
 ## 🚀 About Me
 🤖 I'm Machine Learning Enthusiast
 
-👩‍💻 I'm currently search for a job!
-
 🧠 I'm currently learning Machine Learning at AWS DeepRacer
 
 📫 How to reach me [nurilhuda3333@gmail.com](mailto:nurilhuda3333@gmail.com)
