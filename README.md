@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-🤖 I'm Machine Learning Enthusiast
+🤖 I'm Data Enthusiast
 
 🧠 I'm currently learning Machine Learning at AWS DeepRacer
 
