@@ -5,8 +5,6 @@
 ## 🚀 About Me
 🤖 I'm Data Enthusiast
 
-🧠 I'm currently learning Machine Learning at AWS DeepRacer
-
 📫 How to reach me [nurilhuda3333@gmail.com](mailto:nurilhuda3333@gmail.com)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadnurilhuda&show_icons=true&locale=en" alt="muhammadnurilhuda" /></p>
