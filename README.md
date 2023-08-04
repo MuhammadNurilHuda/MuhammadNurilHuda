@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-🤖 I'm Data Enthusiast
+🤖 Data Analyst, Data Scientist, Machine Learning
 
 📫 How to reach me [nurilhuda3333@gmail.com](mailto:nurilhuda3333@gmail.com)
 
