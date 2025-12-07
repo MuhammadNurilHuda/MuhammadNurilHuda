@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-🤖 Data Scientist, AI Engineer
+🤖 Data Scientist, ML Engineer
 
 📫 How to reach me [nurilhuda3333@gmail.com](mailto:nurilhuda3333@gmail.com)
 
