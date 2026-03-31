@@ -1,16 +1,11 @@
-<h1 align="left">Hi, I'm Nuril 👋</h1>
+<h1 align="left">Hi, I'm Nuril H 👋</h1>
 
 
 
 ## 🚀 About Me
-🤖 Data Scientist, ML Engineer
+🤖 Data Scientist | AI Engineer
 
 📫 How to reach me [nurilhuda3333@gmail.com](mailto:nurilhuda3333@gmail.com)
-
-
-Here are some of my dashboard projects👇🏻
-
-https://linktr.ee/muhammadnurilhuda
 
 
 <h2 align="left">Languages and Tools:</h2>
@@ -20,7 +15,6 @@ https://linktr.ee/muhammadnurilhuda
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-nuril-huda" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-nuril-huda" height="30" width="40" /></a>
-<a href="https://instagram.com/nuril.___" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuril.___" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadnurilhuda&label=Profile%20views&color=0e75b6&style=plastic" alt="muhammadnurilhuda" /> </p>
